@@ -1,0 +1,23 @@
+[
+    {
+        "ID":"1",
+        "MaSinhVien":"17066461",
+        "Ten":"Nguyen",
+        "NgaySinh":"1999-11-28",
+        "avata":"aaa.jpg"
+    },
+    {
+        "ID":"2",
+        "MaSinhVien":"17066462",
+        "Ten":"Nguyen 2",
+        "NgaySinh":"1999-11-28",
+        "avata":"bbb.jpg"
+    },
+    {
+        "ID":"3",
+        "MaSinhVien":"17066463",
+        "Ten":"Nguyen 3",
+        "NgaySinh":"1999-11-28",
+        "avata":"ccc.jpg"
+    }
+]
